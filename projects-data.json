@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "pulseai-api-platform",
+    "name": "PulseAI API Platform",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "A media analytics API powering real-time insights and sentiment scoring for enterprise dashboards.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "JWT"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=pulseai-api-platform",
+    "detailsUrl": "project-detail.html?id=pulseai-api-platform"
+  },
+  {
+    "id": "shopshield-commerce-api",
+    "name": "ShopShield Commerce API",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "Headless commerce backend with payments, inventory sync, and secure order workflows.",
+    "capabilities": [
+      "GraphQL",
+      "Stripe",
+      "MongoDB",
+      "Docker",
+      "Kubernetes"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopshield-commerce-api",
+    "detailsUrl": "project-detail.html?id=shopshield-commerce-api"
+  },
+  {
+    "id": "campusconnect-lms-backend",
+    "name": "CampusConnect LMS Backend",
+    "domain": "API & Integration",
+    "category": "Educational",
+    "description": "Learning platform backend with course management, student progress tracking, and asynchronous jobs.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Celery",
+      "AWS"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=campusconnect-lms-backend",
+    "detailsUrl": "project-detail.html?id=campusconnect-lms-backend"
+  },
+  {
+    "id": "secureflow-auth-service",
+    "name": "SecureFlow Auth Service",
+    "domain": "API & Integration",
+    "category": "Business/Corporate",
+    "description": "Identity and access management engine with OAuth2, SSO, and adaptive security policies.",
+    "capabilities": [
+      "Node.js",
+      "OAuth2",
+      "JWT",
+      "Redis",
+      "Kubernetes"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=secureflow-auth-service",
+    "detailsUrl": "project-detail.html?id=secureflow-auth-service"
+  },
+  {
+    "id": "insightmetrics-analytics-engine",
+    "name": "InsightMetrics Analytics Engine",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "Backend analytics platform for capturing events, summarizing pipelines, and serving custom reports.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Kafka",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightmetrics-analytics-engine",
+    "detailsUrl": "project-detail.html?id=insightmetrics-analytics-engine"
+  },
+  {
+    "id": "fleetops-logistics-api",
+    "name": "FleetOps Logistics API",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "Vehicle tracking and dispatch backend with real-time telemetry, routing, and event streaming.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS Lambda"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=fleetops-logistics-api",
+    "detailsUrl": "project-detail.html?id=fleetops-logistics-api"
+  },
+  {
+    "id": "healthsync-care-data-platform",
+    "name": "HealthSync Care Data Platform",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "Secure patient data API with audit logging, HIPAA-style compliance, and encrypted storage.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "AES-256",
+      "Terraform"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=healthsync-care-data-platform",
+    "detailsUrl": "project-detail.html?id=healthsync-care-data-platform"
+  },
+  {
+    "id": "eventpulse-engagement-api",
+    "name": "EventPulse Engagement API",
+    "domain": "API & Integration",
+    "category": "Event",
+    "description": "Real-time event backend powering attendee messaging, ticketing workflows, and engagement metrics.",
+    "capabilities": [
+      "Node.js",
+      "Socket.io",
+      "Redis",
+      "PostgreSQL",
+      "CI/CD"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=eventpulse-engagement-api",
+    "detailsUrl": "project-detail.html?id=eventpulse-engagement-api"
+  },
+  {
+    "id": "payflow-api-1",
+    "name": "PayFlow API",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "PayFlow API is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-api-1",
+    "detailsUrl": "project-detail.html?id=payflow-api-1"
+  },
+  {
+    "id": "carelink-platform-2",
+    "name": "CareLink Platform",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "CareLink Platform is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-platform-2",
+    "detailsUrl": "project-detail.html?id=carelink-platform-2"
+  },
+  {
+    "id": "routesync-engine-3",
+    "name": "RouteSync Engine",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "RouteSync Engine is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-engine-3",
+    "detailsUrl": "project-detail.html?id=routesync-engine-3"
+  },
+  {
+    "id": "marketpulse-hub-4",
+    "name": "MarketPulse Hub",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "MarketPulse Hub is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-hub-4",
+    "detailsUrl": "project-detail.html?id=marketpulse-hub-4"
+  },
+  {
+    "id": "educloud-gateway-5",
+    "name": "EduCloud Gateway",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "EduCloud Gateway is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-gateway-5",
+    "detailsUrl": "project-detail.html?id=educloud-gateway-5"
+  },
+  {
+    "id": "securemesh-service-6",
+    "name": "SecureMesh Service",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "SecureMesh Service is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-service-6",
+    "detailsUrl": "project-detail.html?id=securemesh-service-6"
+  },
+  {
+    "id": "foodtrail-system-7",
+    "name": "FoodTrail System",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "FoodTrail System is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-system-7",
+    "detailsUrl": "project-detail.html?id=foodtrail-system-7"
+  },
+  {
+    "id": "eventedge-backend-8",
+    "name": "EventEdge Backend",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "EventEdge Backend is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-backend-8",
+    "detailsUrl": "project-detail.html?id=eventedge-backend-8"
+  },
+  {
+    "id": "fittrack-core-9",
+    "name": "FitTrack Core",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "FitTrack Core is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-core-9",
+    "detailsUrl": "project-detail.html?id=fittrack-core-9"
+  },
+  {
+    "id": "homehub-api-10",
+    "name": "HomeHub API",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "HomeHub API is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-api-10",
+    "detailsUrl": "project-detail.html?id=homehub-api-10"
+  },
+  {
+    "id": "dataforge-platform-11",
+    "name": "DataForge Platform",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "DataForge Platform is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-platform-11",
+    "detailsUrl": "project-detail.html?id=dataforge-platform-11"
+  },
+  {
+    "id": "insightsphere-engine-12",
+    "name": "InsightSphere Engine",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "InsightSphere Engine is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-engine-12",
+    "detailsUrl": "project-detail.html?id=insightsphere-engine-12"
+  },
+  {
+    "id": "shopguard-hub-13",
+    "name": "ShopGuard Hub",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "ShopGuard Hub is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-hub-13",
+    "detailsUrl": "project-detail.html?id=shopguard-hub-13"
+  },
+  {
+    "id": "fleetlink-gateway-14",
+    "name": "FleetLink Gateway",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "FleetLink Gateway is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-gateway-14",
+    "detailsUrl": "project-detail.html?id=fleetlink-gateway-14"
+  },
+  {
+    "id": "healthbridge-service-15",
+    "name": "HealthBridge Service",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "HealthBridge Service is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-service-15",
+    "detailsUrl": "project-detail.html?id=healthbridge-service-15"
+  },
+  {
+    "id": "talentflow-system-16",
+    "name": "TalentFlow System",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "TalentFlow System is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-system-16",
+    "detailsUrl": "project-detail.html?id=talentflow-system-16"
+  },
+  {
+    "id": "travelport-backend-17",
+    "name": "TravelPort Backend",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "TravelPort Backend is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-backend-17",
+    "detailsUrl": "project-detail.html?id=travelport-backend-17"
+  },
+  {
+    "id": "assetpulse-core-18",
+    "name": "AssetPulse Core",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "AssetPulse Core is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-core-18",
+    "detailsUrl": "project-detail.html?id=assetpulse-core-18"
+  },
+  {
+    "id": "gameback-api-19",
+    "name": "GameBack API",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "GameBack API is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-api-19",
+    "detailsUrl": "project-detail.html?id=gameback-api-19"
+  },
+  {
+    "id": "mediasync-platform-20",
+    "name": "MediaSync Platform",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "MediaSync Platform is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-platform-20",
+    "detailsUrl": "project-detail.html?id=mediasync-platform-20"
+  },
+  {
+    "id": "energygrid-engine-21",
+    "name": "EnergyGrid Engine",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "EnergyGrid Engine is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-engine-21",
+    "detailsUrl": "project-detail.html?id=energygrid-engine-21"
+  },
+  {
+    "id": "socialcore-hub-22",
+    "name": "SocialCore Hub",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "SocialCore Hub is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-hub-22",
+    "detailsUrl": "project-detail.html?id=socialcore-hub-22"
+  },
+  {
+    "id": "charityconnect-gateway-23",
+    "name": "CharityConnect Gateway",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "CharityConnect Gateway is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-gateway-23",
+    "detailsUrl": "project-detail.html?id=charityconnect-gateway-23"
+  },
+  {
+    "id": "telestream-service-24",
+    "name": "TeleStream Service",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "TeleStream Service is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-service-24",
+    "detailsUrl": "project-detail.html?id=telestream-service-24"
+  },
+  {
+    "id": "wellbase-system-25",
+    "name": "WellBase System",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "WellBase System is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-system-25",
+    "detailsUrl": "project-detail.html?id=wellbase-system-25"
+  },
+  {
+    "id": "investorpro-backend-26",
+    "name": "InvestorPro Backend",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "InvestorPro Backend is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-backend-26",
+    "detailsUrl": "project-detail.html?id=investorpro-backend-26"
+  },
+  {
+    "id": "orderwave-core-27",
+    "name": "OrderWave Core",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "OrderWave Core is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-core-27",
+    "detailsUrl": "project-detail.html?id=orderwave-core-27"
+  },
+  {
+    "id": "bookingvault-api-28",
+    "name": "BookingVault API",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "BookingVault API is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-api-28",
+    "detailsUrl": "project-detail.html?id=bookingvault-api-28"
+  },
+  {
+    "id": "supplypulse-platform-29",
+    "name": "SupplyPulse Platform",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "SupplyPulse Platform is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-platform-29",
+    "detailsUrl": "project-detail.html?id=supplypulse-platform-29"
+  },
+  {
+    "id": "requesthub-engine-30",
+    "name": "RequestHub Engine",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "RequestHub Engine is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-engine-30",
+    "detailsUrl": "project-detail.html?id=requesthub-engine-30"
+  },
+  {
+    "id": "payflow-hub-31",
+    "name": "PayFlow Hub",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "PayFlow Hub is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-hub-31",
+    "detailsUrl": "project-detail.html?id=payflow-hub-31"
+  },
+  {
+    "id": "carelink-gateway-32",
+    "name": "CareLink Gateway",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "CareLink Gateway is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-gateway-32",
+    "detailsUrl": "project-detail.html?id=carelink-gateway-32"
+  },
+  {
+    "id": "routesync-service-33",
+    "name": "RouteSync Service",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "RouteSync Service is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-service-33",
+    "detailsUrl": "project-detail.html?id=routesync-service-33"
+  },
+  {
+    "id": "marketpulse-system-34",
+    "name": "MarketPulse System",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "MarketPulse System is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-system-34",
+    "detailsUrl": "project-detail.html?id=marketpulse-system-34"
+  },
+  {
+    "id": "educloud-backend-35",
+    "name": "EduCloud Backend",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "EduCloud Backend is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-backend-35",
+    "detailsUrl": "project-detail.html?id=educloud-backend-35"
+  },
+  {
+    "id": "securemesh-core-36",
+    "name": "SecureMesh Core",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "SecureMesh Core is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-core-36",
+    "detailsUrl": "project-detail.html?id=securemesh-core-36"
+  },
+  {
+    "id": "foodtrail-api-37",
+    "name": "FoodTrail API",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "FoodTrail API is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-api-37",
+    "detailsUrl": "project-detail.html?id=foodtrail-api-37"
+  },
+  {
+    "id": "eventedge-platform-38",
+    "name": "EventEdge Platform",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "EventEdge Platform is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-platform-38",
+    "detailsUrl": "project-detail.html?id=eventedge-platform-38"
+  },
+  {
+    "id": "fittrack-engine-39",
+    "name": "FitTrack Engine",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "FitTrack Engine is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-engine-39",
+    "detailsUrl": "project-detail.html?id=fittrack-engine-39"
+  },
+  {
+    "id": "homehub-hub-40",
+    "name": "HomeHub Hub",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "HomeHub Hub is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-hub-40",
+    "detailsUrl": "project-detail.html?id=homehub-hub-40"
+  },
+  {
+    "id": "dataforge-gateway-41",
+    "name": "DataForge Gateway",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "DataForge Gateway is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-gateway-41",
+    "detailsUrl": "project-detail.html?id=dataforge-gateway-41"
+  },
+  {
+    "id": "insightsphere-service-42",
+    "name": "InsightSphere Service",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "InsightSphere Service is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-service-42",
+    "detailsUrl": "project-detail.html?id=insightsphere-service-42"
+  },
+  {
+    "id": "shopguard-system-43",
+    "name": "ShopGuard System",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "ShopGuard System is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-system-43",
+    "detailsUrl": "project-detail.html?id=shopguard-system-43"
+  },
+  {
+    "id": "fleetlink-backend-44",
+    "name": "FleetLink Backend",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "FleetLink Backend is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-backend-44",
+    "detailsUrl": "project-detail.html?id=fleetlink-backend-44"
+  },
+  {
+    "id": "healthbridge-core-45",
+    "name": "HealthBridge Core",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "HealthBridge Core is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-core-45",
+    "detailsUrl": "project-detail.html?id=healthbridge-core-45"
+  },
+  {
+    "id": "talentflow-api-46",
+    "name": "TalentFlow API",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "TalentFlow API is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-api-46",
+    "detailsUrl": "project-detail.html?id=talentflow-api-46"
+  },
+  {
+    "id": "travelport-platform-47",
+    "name": "TravelPort Platform",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "TravelPort Platform is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-platform-47",
+    "detailsUrl": "project-detail.html?id=travelport-platform-47"
+  },
+  {
+    "id": "assetpulse-engine-48",
+    "name": "AssetPulse Engine",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "AssetPulse Engine is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-engine-48",
+    "detailsUrl": "project-detail.html?id=assetpulse-engine-48"
+  },
+  {
+    "id": "gameback-hub-49",
+    "name": "GameBack Hub",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "GameBack Hub is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-hub-49",
+    "detailsUrl": "project-detail.html?id=gameback-hub-49"
+  },
+  {
+    "id": "mediasync-gateway-50",
+    "name": "MediaSync Gateway",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "MediaSync Gateway is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-gateway-50",
+    "detailsUrl": "project-detail.html?id=mediasync-gateway-50"
+  },
+  {
+    "id": "energygrid-service-51",
+    "name": "EnergyGrid Service",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "EnergyGrid Service is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-service-51",
+    "detailsUrl": "project-detail.html?id=energygrid-service-51"
+  },
+  {
+    "id": "socialcore-system-52",
+    "name": "SocialCore System",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "SocialCore System is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-system-52",
+    "detailsUrl": "project-detail.html?id=socialcore-system-52"
+  },
+  {
+    "id": "charityconnect-backend-53",
+    "name": "CharityConnect Backend",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "CharityConnect Backend is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-backend-53",
+    "detailsUrl": "project-detail.html?id=charityconnect-backend-53"
+  },
+  {
+    "id": "telestream-core-54",
+    "name": "TeleStream Core",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "TeleStream Core is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-core-54",
+    "detailsUrl": "project-detail.html?id=telestream-core-54"
+  },
+  {
+    "id": "wellbase-api-55",
+    "name": "WellBase API",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "WellBase API is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-api-55",
+    "detailsUrl": "project-detail.html?id=wellbase-api-55"
+  },
+  {
+    "id": "investorpro-platform-56",
+    "name": "InvestorPro Platform",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "InvestorPro Platform is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-platform-56",
+    "detailsUrl": "project-detail.html?id=investorpro-platform-56"
+  },
+  {
+    "id": "orderwave-engine-57",
+    "name": "OrderWave Engine",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "OrderWave Engine is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-engine-57",
+    "detailsUrl": "project-detail.html?id=orderwave-engine-57"
+  },
+  {
+    "id": "bookingvault-hub-58",
+    "name": "BookingVault Hub",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "BookingVault Hub is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-hub-58",
+    "detailsUrl": "project-detail.html?id=bookingvault-hub-58"
+  },
+  {
+    "id": "supplypulse-gateway-59",
+    "name": "SupplyPulse Gateway",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "SupplyPulse Gateway is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-gateway-59",
+    "detailsUrl": "project-detail.html?id=supplypulse-gateway-59"
+  },
+  {
+    "id": "requesthub-service-60",
+    "name": "RequestHub Service",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "RequestHub Service is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-service-60",
+    "detailsUrl": "project-detail.html?id=requesthub-service-60"
+  },
+  {
+    "id": "payflow-system-61",
+    "name": "PayFlow System",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "PayFlow System is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-system-61",
+    "detailsUrl": "project-detail.html?id=payflow-system-61"
+  },
+  {
+    "id": "carelink-backend-62",
+    "name": "CareLink Backend",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "CareLink Backend is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-backend-62",
+    "detailsUrl": "project-detail.html?id=carelink-backend-62"
+  },
+  {
+    "id": "routesync-core-63",
+    "name": "RouteSync Core",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "RouteSync Core is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-core-63",
+    "detailsUrl": "project-detail.html?id=routesync-core-63"
+  },
+  {
+    "id": "marketpulse-api-64",
+    "name": "MarketPulse API",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "MarketPulse API is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-api-64",
+    "detailsUrl": "project-detail.html?id=marketpulse-api-64"
+  },
+  {
+    "id": "educloud-platform-65",
+    "name": "EduCloud Platform",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "EduCloud Platform is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-platform-65",
+    "detailsUrl": "project-detail.html?id=educloud-platform-65"
+  },
+  {
+    "id": "securemesh-engine-66",
+    "name": "SecureMesh Engine",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "SecureMesh Engine is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-engine-66",
+    "detailsUrl": "project-detail.html?id=securemesh-engine-66"
+  },
+  {
+    "id": "foodtrail-hub-67",
+    "name": "FoodTrail Hub",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "FoodTrail Hub is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-hub-67",
+    "detailsUrl": "project-detail.html?id=foodtrail-hub-67"
+  },
+  {
+    "id": "eventedge-gateway-68",
+    "name": "EventEdge Gateway",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "EventEdge Gateway is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-gateway-68",
+    "detailsUrl": "project-detail.html?id=eventedge-gateway-68"
+  },
+  {
+    "id": "fittrack-service-69",
+    "name": "FitTrack Service",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "FitTrack Service is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-service-69",
+    "detailsUrl": "project-detail.html?id=fittrack-service-69"
+  },
+  {
+    "id": "homehub-system-70",
+    "name": "HomeHub System",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "HomeHub System is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-system-70",
+    "detailsUrl": "project-detail.html?id=homehub-system-70"
+  },
+  {
+    "id": "dataforge-backend-71",
+    "name": "DataForge Backend",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "DataForge Backend is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-backend-71",
+    "detailsUrl": "project-detail.html?id=dataforge-backend-71"
+  },
+  {
+    "id": "insightsphere-core-72",
+    "name": "InsightSphere Core",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "InsightSphere Core is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-core-72",
+    "detailsUrl": "project-detail.html?id=insightsphere-core-72"
+  },
+  {
+    "id": "shopguard-api-73",
+    "name": "ShopGuard API",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "ShopGuard API is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-api-73",
+    "detailsUrl": "project-detail.html?id=shopguard-api-73"
+  },
+  {
+    "id": "fleetlink-platform-74",
+    "name": "FleetLink Platform",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "FleetLink Platform is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-platform-74",
+    "detailsUrl": "project-detail.html?id=fleetlink-platform-74"
+  },
+  {
+    "id": "healthbridge-engine-75",
+    "name": "HealthBridge Engine",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "HealthBridge Engine is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-engine-75",
+    "detailsUrl": "project-detail.html?id=healthbridge-engine-75"
+  },
+  {
+    "id": "talentflow-hub-76",
+    "name": "TalentFlow Hub",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "TalentFlow Hub is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-hub-76",
+    "detailsUrl": "project-detail.html?id=talentflow-hub-76"
+  },
+  {
+    "id": "travelport-gateway-77",
+    "name": "TravelPort Gateway",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "TravelPort Gateway is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-gateway-77",
+    "detailsUrl": "project-detail.html?id=travelport-gateway-77"
+  },
+  {
+    "id": "assetpulse-service-78",
+    "name": "AssetPulse Service",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "AssetPulse Service is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-service-78",
+    "detailsUrl": "project-detail.html?id=assetpulse-service-78"
+  },
+  {
+    "id": "gameback-system-79",
+    "name": "GameBack System",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "GameBack System is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-system-79",
+    "detailsUrl": "project-detail.html?id=gameback-system-79"
+  },
+  {
+    "id": "mediasync-backend-80",
+    "name": "MediaSync Backend",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "MediaSync Backend is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-backend-80",
+    "detailsUrl": "project-detail.html?id=mediasync-backend-80"
+  },
+  {
+    "id": "energygrid-core-81",
+    "name": "EnergyGrid Core",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "EnergyGrid Core is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-core-81",
+    "detailsUrl": "project-detail.html?id=energygrid-core-81"
+  },
+  {
+    "id": "socialcore-api-82",
+    "name": "SocialCore API",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "SocialCore API is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-api-82",
+    "detailsUrl": "project-detail.html?id=socialcore-api-82"
+  },
+  {
+    "id": "charityconnect-platform-83",
+    "name": "CharityConnect Platform",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "CharityConnect Platform is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-platform-83",
+    "detailsUrl": "project-detail.html?id=charityconnect-platform-83"
+  },
+  {
+    "id": "telestream-engine-84",
+    "name": "TeleStream Engine",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "TeleStream Engine is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-engine-84",
+    "detailsUrl": "project-detail.html?id=telestream-engine-84"
+  },
+  {
+    "id": "wellbase-hub-85",
+    "name": "WellBase Hub",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "WellBase Hub is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-hub-85",
+    "detailsUrl": "project-detail.html?id=wellbase-hub-85"
+  },
+  {
+    "id": "investorpro-gateway-86",
+    "name": "InvestorPro Gateway",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "InvestorPro Gateway is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-gateway-86",
+    "detailsUrl": "project-detail.html?id=investorpro-gateway-86"
+  },
+  {
+    "id": "orderwave-service-87",
+    "name": "OrderWave Service",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "OrderWave Service is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-service-87",
+    "detailsUrl": "project-detail.html?id=orderwave-service-87"
+  },
+  {
+    "id": "bookingvault-system-88",
+    "name": "BookingVault System",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "BookingVault System is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-system-88",
+    "detailsUrl": "project-detail.html?id=bookingvault-system-88"
+  },
+  {
+    "id": "supplypulse-backend-89",
+    "name": "SupplyPulse Backend",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "SupplyPulse Backend is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-backend-89",
+    "detailsUrl": "project-detail.html?id=supplypulse-backend-89"
+  },
+  {
+    "id": "requesthub-core-90",
+    "name": "RequestHub Core",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "RequestHub Core is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-core-90",
+    "detailsUrl": "project-detail.html?id=requesthub-core-90"
+  },
+  {
+    "id": "payflow-api-91",
+    "name": "PayFlow API",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "PayFlow API is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-api-91",
+    "detailsUrl": "project-detail.html?id=payflow-api-91"
+  },
+  {
+    "id": "carelink-platform-92",
+    "name": "CareLink Platform",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "CareLink Platform is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-platform-92",
+    "detailsUrl": "project-detail.html?id=carelink-platform-92"
+  },
+  {
+    "id": "routesync-engine-93",
+    "name": "RouteSync Engine",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "RouteSync Engine is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-engine-93",
+    "detailsUrl": "project-detail.html?id=routesync-engine-93"
+  },
+  {
+    "id": "marketpulse-hub-94",
+    "name": "MarketPulse Hub",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "MarketPulse Hub is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-hub-94",
+    "detailsUrl": "project-detail.html?id=marketpulse-hub-94"
+  },
+  {
+    "id": "educloud-gateway-95",
+    "name": "EduCloud Gateway",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "EduCloud Gateway is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-gateway-95",
+    "detailsUrl": "project-detail.html?id=educloud-gateway-95"
+  },
+  {
+    "id": "securemesh-service-96",
+    "name": "SecureMesh Service",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "SecureMesh Service is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-service-96",
+    "detailsUrl": "project-detail.html?id=securemesh-service-96"
+  },
+  {
+    "id": "foodtrail-system-97",
+    "name": "FoodTrail System",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "FoodTrail System is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-system-97",
+    "detailsUrl": "project-detail.html?id=foodtrail-system-97"
+  },
+  {
+    "id": "eventedge-backend-98",
+    "name": "EventEdge Backend",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "EventEdge Backend is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-backend-98",
+    "detailsUrl": "project-detail.html?id=eventedge-backend-98"
+  },
+  {
+    "id": "fittrack-core-99",
+    "name": "FitTrack Core",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "FitTrack Core is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-core-99",
+    "detailsUrl": "project-detail.html?id=fittrack-core-99"
+  },
+  {
+    "id": "homehub-api-100",
+    "name": "HomeHub API",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "HomeHub API is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-api-100",
+    "detailsUrl": "project-detail.html?id=homehub-api-100"
+  },
+  {
+    "id": "dataforge-platform-101",
+    "name": "DataForge Platform",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "DataForge Platform is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-platform-101",
+    "detailsUrl": "project-detail.html?id=dataforge-platform-101"
+  },
+  {
+    "id": "insightsphere-engine-102",
+    "name": "InsightSphere Engine",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "InsightSphere Engine is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-engine-102",
+    "detailsUrl": "project-detail.html?id=insightsphere-engine-102"
+  },
+  {
+    "id": "shopguard-hub-103",
+    "name": "ShopGuard Hub",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "ShopGuard Hub is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-hub-103",
+    "detailsUrl": "project-detail.html?id=shopguard-hub-103"
+  },
+  {
+    "id": "fleetlink-gateway-104",
+    "name": "FleetLink Gateway",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "FleetLink Gateway is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-gateway-104",
+    "detailsUrl": "project-detail.html?id=fleetlink-gateway-104"
+  },
+  {
+    "id": "healthbridge-service-105",
+    "name": "HealthBridge Service",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "HealthBridge Service is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-service-105",
+    "detailsUrl": "project-detail.html?id=healthbridge-service-105"
+  },
+  {
+    "id": "talentflow-system-106",
+    "name": "TalentFlow System",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "TalentFlow System is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-system-106",
+    "detailsUrl": "project-detail.html?id=talentflow-system-106"
+  },
+  {
+    "id": "travelport-backend-107",
+    "name": "TravelPort Backend",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "TravelPort Backend is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-backend-107",
+    "detailsUrl": "project-detail.html?id=travelport-backend-107"
+  },
+  {
+    "id": "assetpulse-core-108",
+    "name": "AssetPulse Core",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "AssetPulse Core is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-core-108",
+    "detailsUrl": "project-detail.html?id=assetpulse-core-108"
+  },
+  {
+    "id": "gameback-api-109",
+    "name": "GameBack API",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "GameBack API is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-api-109",
+    "detailsUrl": "project-detail.html?id=gameback-api-109"
+  },
+  {
+    "id": "mediasync-platform-110",
+    "name": "MediaSync Platform",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "MediaSync Platform is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-platform-110",
+    "detailsUrl": "project-detail.html?id=mediasync-platform-110"
+  },
+  {
+    "id": "energygrid-engine-111",
+    "name": "EnergyGrid Engine",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "EnergyGrid Engine is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-engine-111",
+    "detailsUrl": "project-detail.html?id=energygrid-engine-111"
+  },
+  {
+    "id": "socialcore-hub-112",
+    "name": "SocialCore Hub",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "SocialCore Hub is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-hub-112",
+    "detailsUrl": "project-detail.html?id=socialcore-hub-112"
+  },
+  {
+    "id": "charityconnect-gateway-113",
+    "name": "CharityConnect Gateway",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "CharityConnect Gateway is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-gateway-113",
+    "detailsUrl": "project-detail.html?id=charityconnect-gateway-113"
+  },
+  {
+    "id": "telestream-service-114",
+    "name": "TeleStream Service",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "TeleStream Service is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-service-114",
+    "detailsUrl": "project-detail.html?id=telestream-service-114"
+  },
+  {
+    "id": "wellbase-system-115",
+    "name": "WellBase System",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "WellBase System is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-system-115",
+    "detailsUrl": "project-detail.html?id=wellbase-system-115"
+  },
+  {
+    "id": "investorpro-backend-116",
+    "name": "InvestorPro Backend",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "InvestorPro Backend is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-backend-116",
+    "detailsUrl": "project-detail.html?id=investorpro-backend-116"
+  },
+  {
+    "id": "orderwave-core-117",
+    "name": "OrderWave Core",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "OrderWave Core is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-core-117",
+    "detailsUrl": "project-detail.html?id=orderwave-core-117"
+  },
+  {
+    "id": "bookingvault-api-118",
+    "name": "BookingVault API",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "BookingVault API is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-api-118",
+    "detailsUrl": "project-detail.html?id=bookingvault-api-118"
+  },
+  {
+    "id": "supplypulse-platform-119",
+    "name": "SupplyPulse Platform",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "SupplyPulse Platform is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-platform-119",
+    "detailsUrl": "project-detail.html?id=supplypulse-platform-119"
+  },
+  {
+    "id": "requesthub-engine-120",
+    "name": "RequestHub Engine",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "RequestHub Engine is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-engine-120",
+    "detailsUrl": "project-detail.html?id=requesthub-engine-120"
+  },
+  {
+    "id": "payflow-hub-121",
+    "name": "PayFlow Hub",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "PayFlow Hub is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-hub-121",
+    "detailsUrl": "project-detail.html?id=payflow-hub-121"
+  },
+  {
+    "id": "carelink-gateway-122",
+    "name": "CareLink Gateway",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "CareLink Gateway is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-gateway-122",
+    "detailsUrl": "project-detail.html?id=carelink-gateway-122"
+  },
+  {
+    "id": "routesync-service-123",
+    "name": "RouteSync Service",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "RouteSync Service is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-service-123",
+    "detailsUrl": "project-detail.html?id=routesync-service-123"
+  },
+  {
+    "id": "marketpulse-system-124",
+    "name": "MarketPulse System",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "MarketPulse System is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-system-124",
+    "detailsUrl": "project-detail.html?id=marketpulse-system-124"
+  },
+  {
+    "id": "educloud-backend-125",
+    "name": "EduCloud Backend",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "EduCloud Backend is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-backend-125",
+    "detailsUrl": "project-detail.html?id=educloud-backend-125"
+  },
+  {
+    "id": "securemesh-core-126",
+    "name": "SecureMesh Core",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "SecureMesh Core is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-core-126",
+    "detailsUrl": "project-detail.html?id=securemesh-core-126"
+  },
+  {
+    "id": "foodtrail-api-127",
+    "name": "FoodTrail API",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "FoodTrail API is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-api-127",
+    "detailsUrl": "project-detail.html?id=foodtrail-api-127"
+  },
+  {
+    "id": "eventedge-platform-128",
+    "name": "EventEdge Platform",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "EventEdge Platform is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-platform-128",
+    "detailsUrl": "project-detail.html?id=eventedge-platform-128"
+  },
+  {
+    "id": "fittrack-engine-129",
+    "name": "FitTrack Engine",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "FitTrack Engine is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-engine-129",
+    "detailsUrl": "project-detail.html?id=fittrack-engine-129"
+  },
+  {
+    "id": "homehub-hub-130",
+    "name": "HomeHub Hub",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "HomeHub Hub is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-hub-130",
+    "detailsUrl": "project-detail.html?id=homehub-hub-130"
+  },
+  {
+    "id": "dataforge-gateway-131",
+    "name": "DataForge Gateway",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "DataForge Gateway is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-gateway-131",
+    "detailsUrl": "project-detail.html?id=dataforge-gateway-131"
+  },
+  {
+    "id": "insightsphere-service-132",
+    "name": "InsightSphere Service",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "InsightSphere Service is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-service-132",
+    "detailsUrl": "project-detail.html?id=insightsphere-service-132"
+  },
+  {
+    "id": "shopguard-system-133",
+    "name": "ShopGuard System",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "ShopGuard System is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-system-133",
+    "detailsUrl": "project-detail.html?id=shopguard-system-133"
+  },
+  {
+    "id": "fleetlink-backend-134",
+    "name": "FleetLink Backend",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "FleetLink Backend is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-backend-134",
+    "detailsUrl": "project-detail.html?id=fleetlink-backend-134"
+  },
+  {
+    "id": "healthbridge-core-135",
+    "name": "HealthBridge Core",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "HealthBridge Core is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-core-135",
+    "detailsUrl": "project-detail.html?id=healthbridge-core-135"
+  },
+  {
+    "id": "talentflow-api-136",
+    "name": "TalentFlow API",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "TalentFlow API is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-api-136",
+    "detailsUrl": "project-detail.html?id=talentflow-api-136"
+  },
+  {
+    "id": "travelport-platform-137",
+    "name": "TravelPort Platform",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "TravelPort Platform is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-platform-137",
+    "detailsUrl": "project-detail.html?id=travelport-platform-137"
+  },
+  {
+    "id": "assetpulse-engine-138",
+    "name": "AssetPulse Engine",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "AssetPulse Engine is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-engine-138",
+    "detailsUrl": "project-detail.html?id=assetpulse-engine-138"
+  },
+  {
+    "id": "gameback-hub-139",
+    "name": "GameBack Hub",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "GameBack Hub is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-hub-139",
+    "detailsUrl": "project-detail.html?id=gameback-hub-139"
+  },
+  {
+    "id": "mediasync-gateway-140",
+    "name": "MediaSync Gateway",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "MediaSync Gateway is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-gateway-140",
+    "detailsUrl": "project-detail.html?id=mediasync-gateway-140"
+  },
+  {
+    "id": "energygrid-service-141",
+    "name": "EnergyGrid Service",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "EnergyGrid Service is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-service-141",
+    "detailsUrl": "project-detail.html?id=energygrid-service-141"
+  },
+  {
+    "id": "socialcore-system-142",
+    "name": "SocialCore System",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "SocialCore System is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-system-142",
+    "detailsUrl": "project-detail.html?id=socialcore-system-142"
+  },
+  {
+    "id": "charityconnect-backend-143",
+    "name": "CharityConnect Backend",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "CharityConnect Backend is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-backend-143",
+    "detailsUrl": "project-detail.html?id=charityconnect-backend-143"
+  },
+  {
+    "id": "telestream-core-144",
+    "name": "TeleStream Core",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "TeleStream Core is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-core-144",
+    "detailsUrl": "project-detail.html?id=telestream-core-144"
+  },
+  {
+    "id": "wellbase-api-145",
+    "name": "WellBase API",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "WellBase API is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-api-145",
+    "detailsUrl": "project-detail.html?id=wellbase-api-145"
+  },
+  {
+    "id": "investorpro-platform-146",
+    "name": "InvestorPro Platform",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "InvestorPro Platform is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-platform-146",
+    "detailsUrl": "project-detail.html?id=investorpro-platform-146"
+  },
+  {
+    "id": "orderwave-engine-147",
+    "name": "OrderWave Engine",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "OrderWave Engine is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-engine-147",
+    "detailsUrl": "project-detail.html?id=orderwave-engine-147"
+  },
+  {
+    "id": "bookingvault-hub-148",
+    "name": "BookingVault Hub",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "BookingVault Hub is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-hub-148",
+    "detailsUrl": "project-detail.html?id=bookingvault-hub-148"
+  },
+  {
+    "id": "supplypulse-gateway-149",
+    "name": "SupplyPulse Gateway",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "SupplyPulse Gateway is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-gateway-149",
+    "detailsUrl": "project-detail.html?id=supplypulse-gateway-149"
+  },
+  {
+    "id": "requesthub-service-150",
+    "name": "RequestHub Service",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "RequestHub Service is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-service-150",
+    "detailsUrl": "project-detail.html?id=requesthub-service-150"
+  },
+  {
+    "id": "payflow-system-151",
+    "name": "PayFlow System",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "PayFlow System is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-system-151",
+    "detailsUrl": "project-detail.html?id=payflow-system-151"
+  },
+  {
+    "id": "carelink-backend-152",
+    "name": "CareLink Backend",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "CareLink Backend is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-backend-152",
+    "detailsUrl": "project-detail.html?id=carelink-backend-152"
+  },
+  {
+    "id": "routesync-core-153",
+    "name": "RouteSync Core",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "RouteSync Core is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-core-153",
+    "detailsUrl": "project-detail.html?id=routesync-core-153"
+  },
+  {
+    "id": "marketpulse-api-154",
+    "name": "MarketPulse API",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "MarketPulse API is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-api-154",
+    "detailsUrl": "project-detail.html?id=marketpulse-api-154"
+  },
+  {
+    "id": "educloud-platform-155",
+    "name": "EduCloud Platform",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "EduCloud Platform is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-platform-155",
+    "detailsUrl": "project-detail.html?id=educloud-platform-155"
+  },
+  {
+    "id": "securemesh-engine-156",
+    "name": "SecureMesh Engine",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "SecureMesh Engine is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-engine-156",
+    "detailsUrl": "project-detail.html?id=securemesh-engine-156"
+  },
+  {
+    "id": "foodtrail-hub-157",
+    "name": "FoodTrail Hub",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "FoodTrail Hub is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-hub-157",
+    "detailsUrl": "project-detail.html?id=foodtrail-hub-157"
+  },
+  {
+    "id": "eventedge-gateway-158",
+    "name": "EventEdge Gateway",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "EventEdge Gateway is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-gateway-158",
+    "detailsUrl": "project-detail.html?id=eventedge-gateway-158"
+  },
+  {
+    "id": "fittrack-service-159",
+    "name": "FitTrack Service",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "FitTrack Service is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-service-159",
+    "detailsUrl": "project-detail.html?id=fittrack-service-159"
+  },
+  {
+    "id": "homehub-system-160",
+    "name": "HomeHub System",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "HomeHub System is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-system-160",
+    "detailsUrl": "project-detail.html?id=homehub-system-160"
+  },
+  {
+    "id": "dataforge-backend-161",
+    "name": "DataForge Backend",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "DataForge Backend is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-backend-161",
+    "detailsUrl": "project-detail.html?id=dataforge-backend-161"
+  },
+  {
+    "id": "insightsphere-core-162",
+    "name": "InsightSphere Core",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "InsightSphere Core is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-core-162",
+    "detailsUrl": "project-detail.html?id=insightsphere-core-162"
+  },
+  {
+    "id": "shopguard-api-163",
+    "name": "ShopGuard API",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "ShopGuard API is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-api-163",
+    "detailsUrl": "project-detail.html?id=shopguard-api-163"
+  },
+  {
+    "id": "fleetlink-platform-164",
+    "name": "FleetLink Platform",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "FleetLink Platform is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-platform-164",
+    "detailsUrl": "project-detail.html?id=fleetlink-platform-164"
+  },
+  {
+    "id": "healthbridge-engine-165",
+    "name": "HealthBridge Engine",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "HealthBridge Engine is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-engine-165",
+    "detailsUrl": "project-detail.html?id=healthbridge-engine-165"
+  },
+  {
+    "id": "talentflow-hub-166",
+    "name": "TalentFlow Hub",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "TalentFlow Hub is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-hub-166",
+    "detailsUrl": "project-detail.html?id=talentflow-hub-166"
+  },
+  {
+    "id": "travelport-gateway-167",
+    "name": "TravelPort Gateway",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "TravelPort Gateway is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-gateway-167",
+    "detailsUrl": "project-detail.html?id=travelport-gateway-167"
+  },
+  {
+    "id": "assetpulse-service-168",
+    "name": "AssetPulse Service",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "AssetPulse Service is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-service-168",
+    "detailsUrl": "project-detail.html?id=assetpulse-service-168"
+  },
+  {
+    "id": "gameback-system-169",
+    "name": "GameBack System",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "GameBack System is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-system-169",
+    "detailsUrl": "project-detail.html?id=gameback-system-169"
+  },
+  {
+    "id": "mediasync-backend-170",
+    "name": "MediaSync Backend",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "MediaSync Backend is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-backend-170",
+    "detailsUrl": "project-detail.html?id=mediasync-backend-170"
+  },
+  {
+    "id": "energygrid-core-171",
+    "name": "EnergyGrid Core",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "EnergyGrid Core is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-core-171",
+    "detailsUrl": "project-detail.html?id=energygrid-core-171"
+  },
+  {
+    "id": "socialcore-api-172",
+    "name": "SocialCore API",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "SocialCore API is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-api-172",
+    "detailsUrl": "project-detail.html?id=socialcore-api-172"
+  },
+  {
+    "id": "charityconnect-platform-173",
+    "name": "CharityConnect Platform",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "CharityConnect Platform is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=charityconnect-platform-173",
+    "detailsUrl": "project-detail.html?id=charityconnect-platform-173"
+  },
+  {
+    "id": "telestream-engine-174",
+    "name": "TeleStream Engine",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "TeleStream Engine is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=telestream-engine-174",
+    "detailsUrl": "project-detail.html?id=telestream-engine-174"
+  },
+  {
+    "id": "wellbase-hub-175",
+    "name": "WellBase Hub",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "WellBase Hub is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=wellbase-hub-175",
+    "detailsUrl": "project-detail.html?id=wellbase-hub-175"
+  },
+  {
+    "id": "investorpro-gateway-176",
+    "name": "InvestorPro Gateway",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "InvestorPro Gateway is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=investorpro-gateway-176",
+    "detailsUrl": "project-detail.html?id=investorpro-gateway-176"
+  },
+  {
+    "id": "orderwave-service-177",
+    "name": "OrderWave Service",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "OrderWave Service is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=orderwave-service-177",
+    "detailsUrl": "project-detail.html?id=orderwave-service-177"
+  },
+  {
+    "id": "bookingvault-system-178",
+    "name": "BookingVault System",
+    "domain": "API & Integration",
+    "category": "Logistics",
+    "description": "BookingVault System is a responsive backend for logistics applications, orchestrating fleet tracking, delivery routing, and inventory sync in real-time.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=bookingvault-system-178",
+    "detailsUrl": "project-detail.html?id=bookingvault-system-178"
+  },
+  {
+    "id": "supplypulse-backend-179",
+    "name": "SupplyPulse Backend",
+    "domain": "API & Integration",
+    "category": "E-commerce",
+    "description": "SupplyPulse Backend is a responsive backend for e-commerce applications, powering catalog services, checkout workflows, and order lifecycle management.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=supplypulse-backend-179",
+    "detailsUrl": "project-detail.html?id=supplypulse-backend-179"
+  },
+  {
+    "id": "requesthub-core-180",
+    "name": "RequestHub Core",
+    "domain": "API & Integration",
+    "category": "Education",
+    "description": "RequestHub Core is a responsive backend for education applications, handling course data, student progress, and assessment workflows for scalable learning platforms.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=requesthub-core-180",
+    "detailsUrl": "project-detail.html?id=requesthub-core-180"
+  },
+  {
+    "id": "payflow-api-181",
+    "name": "PayFlow API",
+    "domain": "API & Integration",
+    "category": "Enterprise",
+    "description": "PayFlow API is a responsive backend for enterprise applications, delivering secure business APIs for collaboration, reporting, and systems integration.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=payflow-api-181",
+    "detailsUrl": "project-detail.html?id=payflow-api-181"
+  },
+  {
+    "id": "carelink-platform-182",
+    "name": "CareLink Platform",
+    "domain": "API & Integration",
+    "category": "Marketplace",
+    "description": "CareLink Platform is a responsive backend for marketplace applications, coordinating seller onboarding, listing services, and transaction flows.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=carelink-platform-182",
+    "detailsUrl": "project-detail.html?id=carelink-platform-182"
+  },
+  {
+    "id": "routesync-engine-183",
+    "name": "RouteSync Engine",
+    "domain": "API & Integration",
+    "category": "Media",
+    "description": "RouteSync Engine is a responsive backend for media applications, publishing content, streaming metadata, and editorial workflows with fast API delivery.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=routesync-engine-183",
+    "detailsUrl": "project-detail.html?id=routesync-engine-183"
+  },
+  {
+    "id": "marketpulse-hub-184",
+    "name": "MarketPulse Hub",
+    "domain": "API & Integration",
+    "category": "Travel",
+    "description": "MarketPulse Hub is a responsive backend for travel applications, booking, itinerary, and pricing APIs optimized for global availability and latency.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=marketpulse-hub-184",
+    "detailsUrl": "project-detail.html?id=marketpulse-hub-184"
+  },
+  {
+    "id": "educloud-gateway-185",
+    "name": "EduCloud Gateway",
+    "domain": "API & Integration",
+    "category": "SaaS",
+    "description": "EduCloud Gateway is a responsive backend for saas applications, automating subscription, tenant, and usage management for multi-tenant applications.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=educloud-gateway-185",
+    "detailsUrl": "project-detail.html?id=educloud-gateway-185"
+  },
+  {
+    "id": "securemesh-service-186",
+    "name": "SecureMesh Service",
+    "domain": "API & Integration",
+    "category": "Security",
+    "description": "SecureMesh Service is a responsive backend for security applications, providing identity verification, access control, and secure event auditing.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=securemesh-service-186",
+    "detailsUrl": "project-detail.html?id=securemesh-service-186"
+  },
+  {
+    "id": "foodtrail-system-187",
+    "name": "FoodTrail System",
+    "domain": "API & Integration",
+    "category": "Retail",
+    "description": "FoodTrail System is a responsive backend for retail applications, synchronizing inventory, pricing, and customer orders across channels.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=foodtrail-system-187",
+    "detailsUrl": "project-detail.html?id=foodtrail-system-187"
+  },
+  {
+    "id": "eventedge-backend-188",
+    "name": "EventEdge Backend",
+    "domain": "API & Integration",
+    "category": "Gaming",
+    "description": "EventEdge Backend is a responsive backend for gaming applications, supporting matchmaking, player profiles, and telemetry ingestion in real-time.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=eventedge-backend-188",
+    "detailsUrl": "project-detail.html?id=eventedge-backend-188"
+  },
+  {
+    "id": "fittrack-core-189",
+    "name": "FitTrack Core",
+    "domain": "API & Integration",
+    "category": "IoT",
+    "description": "FitTrack Core is a responsive backend for iot applications, ingesting device telemetry, edge events, and automation triggers at scale.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=fittrack-core-189",
+    "detailsUrl": "project-detail.html?id=fittrack-core-189"
+  },
+  {
+    "id": "homehub-api-190",
+    "name": "HomeHub API",
+    "domain": "API & Integration",
+    "category": "Analytics",
+    "description": "HomeHub API is a responsive backend for analytics applications, streaming event data, dashboards, and custom report APIs for fast insights.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=homehub-api-190",
+    "detailsUrl": "project-detail.html?id=homehub-api-190"
+  },
+  {
+    "id": "dataforge-platform-191",
+    "name": "DataForge Platform",
+    "domain": "API & Integration",
+    "category": "HR",
+    "description": "DataForge Platform is a responsive backend for hr applications, managing employee records, applicant tracking, and payroll integrations.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=dataforge-platform-191",
+    "detailsUrl": "project-detail.html?id=dataforge-platform-191"
+  },
+  {
+    "id": "insightsphere-engine-192",
+    "name": "InsightSphere Engine",
+    "domain": "API & Integration",
+    "category": "Real Estate",
+    "description": "InsightSphere Engine is a responsive backend for real estate applications, powering property listings, lead capture, and agent collaboration APIs.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=insightsphere-engine-192",
+    "detailsUrl": "project-detail.html?id=insightsphere-engine-192"
+  },
+  {
+    "id": "shopguard-hub-193",
+    "name": "ShopGuard Hub",
+    "domain": "API & Integration",
+    "category": "FoodTech",
+    "description": "ShopGuard Hub is a responsive backend for foodtech applications, handling menu management, order routing, and kitchen fulfillment services.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=shopguard-hub-193",
+    "detailsUrl": "project-detail.html?id=shopguard-hub-193"
+  },
+  {
+    "id": "fleetlink-gateway-194",
+    "name": "FleetLink Gateway",
+    "domain": "API & Integration",
+    "category": "Automotive",
+    "description": "FleetLink Gateway is a responsive backend for automotive applications, managing vehicle diagnostics, maintenance scheduling, and fleet analytics.",
+    "capabilities": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Sidekiq",
+      "Docker"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=fleetlink-gateway-194",
+    "detailsUrl": "project-detail.html?id=fleetlink-gateway-194"
+  },
+  {
+    "id": "healthbridge-service-195",
+    "name": "HealthBridge Service",
+    "domain": "API & Integration",
+    "category": "Social",
+    "description": "HealthBridge Service is a responsive backend for social applications, powering user connections, content feeds, and engagement APIs.",
+    "capabilities": [
+      "Node.js",
+      "NestJS",
+      "MongoDB",
+      "GraphQL",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=healthbridge-service-195",
+    "detailsUrl": "project-detail.html?id=healthbridge-service-195"
+  },
+  {
+    "id": "talentflow-system-196",
+    "name": "TalentFlow System",
+    "domain": "API & Integration",
+    "category": "Events",
+    "description": "TalentFlow System is a responsive backend for events applications, handling ticketing, attendee check-in, and scheduling workflows.",
+    "capabilities": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Celery",
+      "GCP"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=talentflow-system-196",
+    "detailsUrl": "project-detail.html?id=talentflow-system-196"
+  },
+  {
+    "id": "travelport-backend-197",
+    "name": "TravelPort Backend",
+    "domain": "API & Integration",
+    "category": "Nonprofit",
+    "description": "TravelPort Backend is a responsive backend for nonprofit applications, supporting donor management, campaign tracking, and impact reporting.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "MySQL",
+      "Nginx",
+      "CI/CD"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=travelport-backend-197",
+    "detailsUrl": "project-detail.html?id=travelport-backend-197"
+  },
+  {
+    "id": "assetpulse-core-198",
+    "name": "AssetPulse Core",
+    "domain": "API & Integration",
+    "category": "Telecom",
+    "description": "AssetPulse Core is a responsive backend for telecom applications, managing subscriber services, billing, and network configuration APIs.",
+    "capabilities": [
+      "Python",
+      "Flask",
+      "Elasticsearch",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=assetpulse-core-198",
+    "detailsUrl": "project-detail.html?id=assetpulse-core-198"
+  },
+  {
+    "id": "gameback-api-199",
+    "name": "GameBack API",
+    "domain": "API & Integration",
+    "category": "Energy",
+    "description": "GameBack API is a responsive backend for energy applications, scheduling generation, usage analytics, and demand-response services.",
+    "capabilities": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Redis",
+      "Docker"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=gameback-api-199",
+    "detailsUrl": "project-detail.html?id=gameback-api-199"
+  },
+  {
+    "id": "mediasync-platform-200",
+    "name": "MediaSync Platform",
+    "domain": "API & Integration",
+    "category": "Wellness",
+    "description": "MediaSync Platform is a responsive backend for wellness applications, tracking appointments, member plans, and personalized health recommendations.",
+    "capabilities": [
+      "Python",
+      "FastAPI",
+      "MongoDB",
+      "RabbitMQ",
+      "AWS"
+    ],
+    "year": 2026,
+    "status": "Live",
+    "url": "project-site.html?id=mediasync-platform-200",
+    "detailsUrl": "project-detail.html?id=mediasync-platform-200"
+  },
+  {
+    "id": "energygrid-engine-201",
+    "name": "EnergyGrid Engine",
+    "domain": "API & Integration",
+    "category": "Fintech",
+    "description": "EnergyGrid Engine is a responsive backend for fintech applications, serving payments, reconciliation, and fraud monitoring with PCI-conscious API design.",
+    "capabilities": [
+      "Go",
+      "gRPC",
+      "MySQL",
+      "Kubernetes",
+      "Prometheus"
+    ],
+    "year": 2024,
+    "status": "Live",
+    "url": "project-site.html?id=energygrid-engine-201",
+    "detailsUrl": "project-detail.html?id=energygrid-engine-201"
+  },
+  {
+    "id": "socialcore-hub-202",
+    "name": "SocialCore Hub",
+    "domain": "API & Integration",
+    "category": "Healthcare",
+    "description": "SocialCore Hub is a responsive backend for healthcare applications, managing patient, provider, and compliance workflows with encrypted storage and audit logs.",
+    "capabilities": [
+      "Java",
+      "Spring Boot",
+      "OracleDB",
+      "Kafka",
+      "Terraform"
+    ],
+    "year": 2025,
+    "status": "Live",
+    "url": "project-site.html?id=socialcore-hub-202",
+    "detailsUrl": "project-detail.html?id=socialcore-hub-202"
+  }
+]

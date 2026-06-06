@@ -1,0 +1,800 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Full-stack web development and software engineering. Build scalable, modern web applications with proven expertise in React, Node.js, cloud architecture, and enterprise solutions."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <title>EblogDev | Full-Stack Web Development & Enterprise Solutions</title>
+
+    <!-- Open Graph for Facebook, LinkedIn -->
+    <meta
+      property="og:title"
+      content="EblogDev | Software Engineer Portfolio"
+    />
+    <meta
+      property="og:description"
+      content="Full-stack web development, cloud architecture, and enterprise solutions."
+    />
+    <meta
+      property="og:image"
+      content="https://portfolio-lyart-kappa-w3jk28uhe4.vercel.app/asset/ebhb.jpg"
+    />
+    <meta
+      property="og:url"
+      content="https://portfolio-lyart-kappa-w3jk28uhe4.vercel.app/"
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Eblog Stratium | Software Engineer Portfolio"
+    />
+    <meta
+      name="twitter:description"
+      content="Full-stack web development, cloud architecture, and enterprise solutions."
+    />
+    <meta
+      name="twitter:image"
+      content="https://portfolio-lyart-kappa-w3jk28uhe4.vercel.app/asset/ebhb.jpg"
+    />
+  </head>
+
+  <body>
+    <!-- Scroll progress -->
+    <div id="scroll-progress"></div>
+
+    <!-- Custom cursor -->
+    <div id="cursor-pointer"></div>
+    <div id="cursor-dot"></div>
+    <div id="cursor-label" class="cursor-label"></div>
+
+    <!-- Interactive canvas background -->
+    <canvas id="bg-canvas"></canvas>
+    <div class="grid-overlay"></div>
+
+    <!-- ─── NAV ─── -->
+    <nav class="nav">
+      <div class="nav-inner container">
+        <a class="brand" href="#home">Eblog<span>Dev</span></a>
+        <button
+          id="nav-toggle"
+          class="nav-toggle"
+          aria-label="Toggle navigation"
+        >
+          <span></span><span></span><span></span>
+        </button>
+        <div class="nav-links" id="nav-menu">
+          <a href="#home">Home</a>
+          <a href="#about">About</a>
+          <a href="#services">Services</a>
+          <a href="#work">Portfolio</a>
+          <a href="#expertise">Tech Stack</a>
+          <a href="#outcomes">Results</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- ─── HERO ─── -->
+    <header id="home" class="hero">
+      <div class="container hero-grid">
+        <div class="hero-photo">
+          <div class="hero-photo-bg">
+            <img
+              src="asset/BCO.015eb784-4a01-4c5a-a702-d60637a38369.png"
+              alt="Profile Photo"
+              class="hero-photo-img"
+            />
+          </div>
+        </div>
+        <div class="hero-copy">
+          <p class="eyebrow">
+            Software Engineering &amp; Full-Stack Development
+          </p>
+          <h1>
+            Enterprise grade<br /><em>web applications</em><br />that scale.
+          </h1>
+          <p class="hero-description">
+            We specialize in designing and developing modern, responsive web
+            applications that prioritize performance, scalability, and an
+            intuitive user experience. From initial concept to final deployment,
+            we deliver comprehensive full‑stack solutions that empower
+            businesses to grow and succeed.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#work">View Our Work →</a>
+            <a class="button secondary" href="#contact">Start a Project</a>
+          </div>
+        </div>
+        <div class="hero-card reveal">
+          <div class="headline-card">
+            <div class="headline-icon">🚀</div>
+            <div>
+              <h3>Proven Results</h3>
+              <p>Trusted by startups and enterprises worldwide.</p>
+            </div>
+          </div>
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="number">3+</span>
+              <p>Years Experience</p>
+            </div>
+
+            <div class="stat-card">
+              <span>210+</span>
+              <p>Projects Delivered</p>
+            </div>
+            <div class="stat-card">
+              <span>207+</span>
+              <p>Happy Clients</p>
+            </div>
+            <div class="stat-card">
+              <span>99.9%</span>
+              <p>Uptime Track Record</p>
+            </div>
+          </div>
+          <div class="status-bar">
+            <div class="status-dot"></div>
+            <span id="hero-status"
+              >All systems operational — available for new projects</span
+            >
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ─── ABOUT ─── -->
+    <section id="about" class="section about-section">
+      <div class="container about-container">
+        <div class="section-intro">
+          <p class="eyebrow">My Journey</p>
+          <h2>From Education to <em>Enterprise Solutions</em></h2>
+        </div>
+
+        <!-- Personal Story -->
+        <div class="about-story reveal">
+          <div class="story-content">
+            <h3>Who Am I?</h3>
+            <p>
+              I'm Elisha Anthony, a passionate Software Engineer and Full-Stack
+              Developer with a strong focus on building scalable, responsive,
+              and user-centric web applications. With over
+              <strong>
+                3 years of professional experience and more than 210 successful
+                projects delivered</strong>, I've had the privilege of working with startups, enterprises,
+              and diverse organizations helping them transform ideas into
+              impactful digital solutions.
+            </p>
+            <p>
+              My journey in technology began with a deep curiosity about how
+              things work. That inquisitive nature has grown into a drive to
+              continuously learn, innovate, and refine my craft. I thrive on
+              solving complex problems, whether it's designing intuitive
+              front-end experiences or architecting robust back-end systems. For
+              me, development is not just about writing clean code it's about
+              creating solutions that are efficient, scalable, and meaningful to
+              the people who use them.
+            </p>
+            <p>
+              Beyond the technical side, I'm inspired by how technology can
+              shape society and the world at large. I believe software has the
+              power to bridge gaps, empower communities, and create
+              opportunities that improve lives. Whether it's through enhancing
+              accessibility, streamlining business processes, or enabling global
+              connectivity, I see technology as a tool for progress and positive
+              change.
+            </p>
+            <p>
+              Collaboration and adaptability are central to my work. I enjoy
+              partnering with clients and teams to understand their vision and
+              deliver products that exceed expectations. My commitment is always
+              to excellence, ensuring that every project I take on is
+              future-ready and aligned with both user needs and societal impact.
+            </p>
+            <p>
+              Looking ahead, I'm excited to continue exploring emerging
+              technologies, contributing to innovative projects, and playing a
+              role in shaping a digital future that benefits not just
+              businesses, but people and communities around the world.
+            </p>
+          </div>
+        </div>
+
+        <!-- Education Timeline -->
+        <div class="education-section reveal reveal-delay-1">
+          <h3>Educational Background</h3>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                <h4>Primary Education</h4>
+                <p class="timeline-period"></p>
+                <p>
+                  Foundation in mathematics and science. Developed early
+                  interest in computers and problem-solving. Participated in
+                  school competitions and science fairs.
+                </p>
+              </div>
+            </div>
+
+            <div class="timeline-item">
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                <h4>Secondary Education</h4>
+                <p class="timeline-period"></p>
+                <p>
+                  Took advanced courses in Computer Science and Mathematics.
+                  Started learning basic programming and web development. Built
+                  first website and won school tech competition.
+                </p>
+              </div>
+            </div>
+
+            <div class="timeline-item">
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                <h4>University - Bachelor's Degree</h4>
+                <p class="timeline-period">-present</p>
+                <p>
+                  <strong>B.Sc. Computer Science</strong> - Focused on software
+                  engineering, database design, and network architecture.
+                  Completed projects in AI, web development applications.
+                  Graduated with distinction.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- What Drives Me -->
+        <div class="passion-section reveal reveal-delay-2">
+          <h3>What Drives Me Into Coding</h3>
+          <div class="passion-grid">
+            <article class="passion-card">
+              <div class="passion-icon">💡</div>
+              <h4>Problem Solving</h4>
+              <p>
+                I love the challenge of breaking down complex problems into
+                elegant solutions. Every bug is a puzzle, every feature is an
+                opportunity to innovate.
+              </p>
+            </article>
+            <article class="passion-card">
+              <div class="passion-icon">🚀</div>
+              <h4>Building Impact</h4>
+              <p>
+                Creating applications that solve real-world problems and improve
+                people's lives. Seeing my code make a tangible difference is
+                incredibly rewarding.
+              </p>
+            </article>
+            <article class="passion-card">
+              <div class="passion-icon">📚</div>
+              <h4>Continuous Learning</h4>
+              <p>
+                Technology evolves rapidly. I'm passionate about staying at the
+                forefront, learning new frameworks, languages, and best
+                practices daily.
+              </p>
+            </article>
+            <article class="passion-card">
+              <div class="passion-icon">👥</div>
+              <h4>Collaboration</h4>
+              <p>
+                Great software is built by great teams. I thrive in
+                collaborative environments, sharing knowledge and lifting others
+                up through mentorship.
+              </p>
+            </article>
+            <article class="passion-card">
+              <div class="passion-icon">⚡</div>
+              <h4>Performance</h4>
+              <p>
+                Optimizing applications for speed and efficiency fascinates me.
+                Every millisecond saved improves user experience and reduces
+                infrastructure costs.
+              </p>
+            </article>
+            <article class="passion-card">
+              <div class="passion-icon">🔒</div>
+              <h4>Security First</h4>
+              <p>
+                Building secure applications is a responsibility I take
+                seriously. Protecting user data and ensuring system integrity
+                drives my architecture decisions.
+              </p>
+            </article>
+          </div>
+        </div>
+
+        <!-- Personal Interests -->
+        <div class="interests-section reveal reveal-delay-3">
+          <br />
+          <h3>Beyond Coding</h3>
+          <div class="interests-content">
+            <p>
+              When I'm not coding, you'll find me exploring new technologies,
+              reading tech blogs, contributing to open-source projects, or
+              mentoring aspiring developers. I'm passionate about building a
+              supportive tech community and sharing knowledge.
+            </p>
+            <div class="interests-list">
+              <div class="interest-item">
+                <span class="interest-icon">🏆</span>
+                <p>Competitive programming and hackathons</p>
+              </div>
+              <div class="interest-item">
+                <span class="interest-icon">📖</span>
+                <p>Reading and technical writing</p>
+              </div>
+              <div class="interest-item">
+                <span class="interest-icon">🌍</span>
+                <p>Open-source contributions</p>
+              </div>
+              <div class="interest-item">
+                <span class="interest-icon">👨‍🏫</span>
+                <p>Mentoring junior developers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── SERVICES ─── -->
+    <section id="services" class="section">
+      <div class="container">
+        <div class="section-intro">
+          <p class="eyebrow">What We Build</p>
+          <h2>Services tailored to your <em>needs.</em></h2>
+        </div>
+        <div class="service-grid">
+          <article class="service-card reveal">
+            <div class="service-icon">⚛️</div>
+            <h3>Modern Web Applications</h3>
+            <p>
+              React, Vue, and Angular applications built with performance,
+              accessibility, and scalability in mind. Fast load times, smooth
+              interactions, responsive across all devices.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-1">
+            <div class="service-icon">🖥️</div>
+            <h3>Full-Stack Development</h3>
+            <p>
+              Complete end-to-end solutions from frontend UI to backend APIs.
+              Node.js, Python, and serverless architectures that power modern
+              applications.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-2">
+            <div class="service-icon">☁️</div>
+            <h3>Cloud Architecture</h3>
+            <p>
+              AWS, Azure, and GCP deployments with CI/CD pipelines,
+              auto-scaling, and disaster recovery. Your app stays up, fast, and
+              secure.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-3">
+            <div class="service-icon">🔒</div>
+            <h3>Enterprise Security</h3>
+            <p>
+              End-to-end encryption, authentication, compliance (GDPR, SOC2),
+              and security audits. Build with confidence and peace of mind.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── BACKEND SYSTEMS ─── -->
+    <section id="backend" class="section">
+      <div class="container">
+        <div class="section-intro">
+          <p class="eyebrow">Backend Systems</p>
+          <h2>APIs, services, and architecture built for <em>scale</em>.</h2>
+          <p class="portfolio-subtitle">
+            Designing and implementing backend systems that power complex
+            applications, protect user data, and integrate seamlessly with
+            frontend experiences.
+          </p>
+        </div>
+
+        <div class="service-grid">
+          <article class="service-card reveal">
+            <div class="service-icon">🧩</div>
+            <h3>API Design & Integration</h3>
+            <p>
+              REST and GraphQL APIs designed for consistency, versioning, and
+              reliable third-party integration.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-1">
+            <div class="service-icon">🔐</div>
+            <h3>Authentication & Security</h3>
+            <p>
+              Strong auth flows, token management, and role-based access control
+              to keep systems secure and compliant.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-2">
+            <div class="service-icon">⚡</div>
+            <h3>Performance Engineering</h3>
+            <p>
+              Backend caching, queueing, and horizontal scaling for low latency
+              and high throughput.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-3">
+            <div class="service-icon">☁️</div>
+            <h3>Cloud & Serverless Architecture</h3>
+            <p>
+              Deployments using containerized services, serverless functions,
+              and managed cloud platforms for reliability.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-4">
+            <div class="service-icon">🛠️</div>
+            <h3>Data Systems & Storage</h3>
+            <p>
+              Structured and unstructured data pipelines with databases, search
+              indexes, and event streaming.
+            </p>
+          </article>
+          <article class="service-card reveal reveal-delay-5">
+            <div class="service-icon">📈</div>
+            <h3>Monitoring & Observability</h3>
+            <p>
+              Instrumentation, logging, and error tracking to keep production
+              systems observable and resilient.
+            </p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── PORTFOLIO ─── -->
+    <section id="work" class="section">
+      <div class="container">
+        <div class="section-intro">
+          <p class="eyebrow">Portfolio Highlights</p>
+          <h2><em>210</em> Responsive Frontend Projects</h2>
+          <p class="portfolio-subtitle">
+            Explore a full collection of responsive, backend-powered websites
+            that each come with their own preview and project showcase.
+          </p>
+        </div>
+
+        <div class="portfolio-highlight-card reveal">
+          <div class="highlight-topline">210 Responsive Projects</div>
+          <h3>
+            Every project opens a dedicated website preview so clients can see
+            what the product was built to do.
+          </h3>
+          <p>
+            Each project includes a unique frontend experience and a backend
+            architecture summary, making every portfolio entry feel distinct.
+          </p>
+        </div>
+
+        <div class="module-controls">
+          <div class="control-group">
+            <input
+              id="module-search"
+              type="search"
+              placeholder="Search projects by name or industry"
+              aria-label="Search projects"
+            />
+            <select id="domain-filter" aria-label="Filter by project type">
+              <option value="all">All Projects</option>
+              <option value="Web App">Web Application</option>
+              <option value="SaaS">SaaS Platform</option>
+              <option value="E-commerce">E-commerce</option>
+              <option value="API & Integration">API &amp; Integration</option>
+              <option value="Corporate">Business/Corporate Websites</option>
+              <option value="Portfolio">Portfolio Websites</option>
+              <option value="Blog">Blogs &amp; News Websites</option>
+              <option value="Landing">Landing Pages</option>
+              <option value="Social">Social Media Websites</option>
+              <option value="Educational">
+                Educational/E-learning Websites
+              </option>
+              <option value="Wiki">Informational/Wiki Websites</option>
+              <option value="Event">Event Websites</option>
+              <option value="Forum">Forum/Community Websites</option>
+              <option value="Personal">Personal Websites</option>
+              <option value="Streaming">
+                Streaming/Entertainment Websites
+              </option>
+            </select>
+          </div>
+          <div class="results-info">
+            <span id="results-count">Showing all projects</span>
+          </div>
+        </div>
+
+        <div id="module-results" class="module-grid"></div>
+
+        <!-- Pagination Controls -->
+        <div class="pagination-controls" id="pagination-controls">
+          <button
+            id="prev-page"
+            class="pagination-btn"
+            aria-label="Previous page"
+          >
+            ← Previous
+          </button>
+          <div class="page-info">
+            <span id="current-page">Page 1</span>
+            <span id="total-pages">of 10</span>
+          </div>
+          <button id="next-page" class="pagination-btn" aria-label="Next page">
+            Next →
+          </button>
+        </div>
+
+        <p
+          style="
+            margin-top: 1.5rem;
+            color: var(--text-muted);
+            font-size: 0.88rem;
+            text-align: center;
+          "
+        >
+          Filter by project type to see specific expertise. Each project
+          showcases our commitment to quality and performance. Click on a
+          project to see details, tech stack, and outcomes. We deliver results
+          that drive growth and success for our clients.
+        </p>
+      </div>
+    </section>
+
+    <!-- ─── TECH STACK ─── -->
+    <section id="expertise" class="section">
+      <div class="container stack-grid">
+        <div class="stack-copy reveal">
+          <p class="eyebrow">Technology Stack</p>
+          <h2>Built with modern, battle-tested tech.</h2>
+          <p>
+            We use the best tools in the industry to ensure your application is
+            fast, secure, and maintainable. Continuous learning keeps us at the
+            forefront of web development.
+          </p>
+          <div>
+            <p
+              style="
+                font-size: 0.82rem;
+                font-family: &quot;JetBrains Mono&quot;, monospace;
+                color: var(--accent);
+                margin-bottom: 0.6rem;
+              "
+            >
+              Frontend
+            </p>
+            <div class="tech-tags">
+              <span class="tech-tag">React</span
+              ><span class="tech-tag">Next.js</span
+              ><span class="tech-tag">Vue</span
+              ><span class="tech-tag">TypeScript</span
+              ><span class="tech-tag">Tailwind</span>
+            </div>
+          </div>
+          <div style="margin-top: 1.25rem">
+            <p
+              style="
+                font-size: 0.82rem;
+                font-family: &quot;JetBrains Mono&quot;, monospace;
+                color: var(--accent);
+                margin-bottom: 0.6rem;
+              "
+            >
+              Backend
+            </p>
+            <div class="tech-tags">
+              <span class="tech-tag">Node.js</span
+              ><span class="tech-tag">Python</span
+              ><span class="tech-tag">FastAPI</span
+              ><span class="tech-tag">GraphQL</span>
+            </div>
+          </div>
+          <div style="margin-top: 1.25rem">
+            <p
+              style="
+                font-size: 0.82rem;
+                font-family: &quot;JetBrains Mono&quot;, monospace;
+                color: var(--accent);
+                margin-bottom: 0.6rem;
+              "
+            >
+              DevOps
+            </p>
+            <div class="tech-tags">
+              <span class="tech-tag">Docker</span
+              ><span class="tech-tag">Kubernetes</span
+              ><span class="tech-tag">AWS</span
+              ><span class="tech-tag">Terraform</span>
+            </div>
+          </div>
+        </div>
+        <div class="stack-metrics">
+          <div class="metric-card reveal">
+            <h3>Performance First</h3>
+            <p>
+              Optimized for speed with Core Web Vitals excellence, CDN delivery,
+              and efficient caching strategies.
+            </p>
+          </div>
+          <div class="metric-card reveal reveal-delay-1">
+            <h3>Production Ready</h3>
+            <p>
+              Error tracking, monitoring, logging, and alerting built into every
+              deployment from day one.
+            </p>
+          </div>
+          <div class="metric-card reveal reveal-delay-2">
+            <h3>Developer Friendly</h3>
+            <p>
+              Clean code, comprehensive documentation, and easy handoffs for
+              your internal team.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── TRUST ─── -->
+    <section id="outcomes" class="section trust-section">
+      <div class="container trust-grid">
+        <div class="trust-item reveal">
+          <div class="trust-icon">✦</div>
+          <h3>Quality &amp; Reliability</h3>
+          <p>
+            Every application is tested thoroughly. We follow best practices for
+            code quality, security audits, and performance optimization.
+          </p>
+        </div>
+        <div class="trust-item reveal reveal-delay-1">
+          <div class="trust-icon">◈</div>
+          <h3>Transparent Communication</h3>
+          <p>
+            Regular updates, clear timelines, and honest feedback. You'll always
+            know the status of your project and what to expect next.
+          </p>
+        </div>
+        <div class="trust-item reveal reveal-delay-2">
+          <div class="trust-icon">⬡</div>
+          <h3>Long-term Support</h3>
+          <p>
+            We don't disappear after launch. Ongoing maintenance, updates, and
+            scaling support as your business grows.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── CONTACT ─── -->
+    <section id="contact" class="section">
+      <div class="container contact-grid">
+        <div class="contact-copy reveal">
+          <p class="eyebrow">Let's Work Together</p>
+          <h2>Ready to build something <em>amazing?</em></h2>
+          <p>
+            Whether you're launching a new project, scaling an existing
+            application, or need expert consultation on architecture and
+            performance, we're here to help. Reach out to discuss your ideas and
+            see how we can bring your vision to life with modern, scalable web
+            solutions.
+          </p>
+          <p>We are here to help for you.</p>
+          <div class="contact-details">
+            <div class="contact-item">
+              <a href="mailto:talktoelishaanthonylive@gmail.com">Email</a>
+            </div>
+            <div class="contact-item">
+              <a
+                href="https://wa.me/+2348129858542?text=Check%20out%20my%20portfolio:%20https://portfolio-lyart-kappa-w3jk28uhe4.vercel.app/"
+                target="_blank"
+                >WhatsApp</a
+              >
+            </div>
+            <div class="contact-item">
+              <a
+                href="https://www.linkedin.com/in/elisha-anthony-00a330407"
+                target="_blank"
+                >LinkedIn</a
+              >
+            </div>
+            <div class="contact-item">
+              <a href="https://tel:+2348129858542" target="_blank"
+                >Customer Care</a
+              >
+            </div>
+            <div class="contact-item">
+              <strong>Status</strong>
+              <p>Available for new projects &amp; consulting</p>
+            </div>
+          </div>
+        </div>
+        <form
+          id="contact-form"
+          class="contact-form reveal reveal-delay-1"
+          novalidate
+        >
+          <label>
+            <span>Name</span>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              placeholder="Your name"
+              required
+            />
+          </label>
+          <label>
+            <span>Email</span>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="you@company.com"
+              required
+            />
+          </label>
+          <label>
+            <span>Company</span>
+            <input
+              type="text"
+              id="company"
+              name="company"
+              placeholder="Your company"
+              required
+            />
+          </label>
+          <label>
+            <span>Project Description</span>
+            <textarea
+              id="message"
+              name="message"
+              rows="5"
+              placeholder="Tell us about your project and goals"
+              required
+            ></textarea>
+          </label>
+          <button
+            type="submit"
+            class="button primary"
+            style="justify-content: center; border: none; margin: 20px"
+          >
+            Send Message →
+          </button>
+          <p id="form-feedback" class="form-feedback" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <!-- ─── FOOTER ─── -->
+    <footer class="footer">
+      <div class="container footer-grid">
+        <p class="footer-copy">
+          © 2026 Designed & Built by Eblog Group | 🟢 All Systems Operational
+        </p>
+      </div>
+    </footer>
+
+    <script src="projects.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

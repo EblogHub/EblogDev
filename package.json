@@ -1,0 +1,9 @@
+{
+  "name": "eblogdev-portfolio",
+  "version": "1.0.0",
+  "description": "EblogDev Portfolio with serverless contact API",
+  "main": "index.html",
+  "scripts": {
+    "start": "node backend/server.js"
+  }
+}
